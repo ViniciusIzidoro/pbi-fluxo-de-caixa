@@ -5,10 +5,10 @@
 ---
 
 ## 📑 Sumário
-- [Objetivo](#-objetivo)
-- [Funcionalidades Principais](#-funcionalidades-principais)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Visualização do Sistema](#-visualização-do-sistema)
+- [Objetivo](#objetivo)
+- [Funcionalidades Principais](#funcionalidades-principais)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Visualização do Sistema](#visualização-do-sistema)
 
 ---
 
