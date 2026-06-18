@@ -25,9 +25,8 @@ Desenvolver uma solução de Business Intelligence para controle dinâmico do fl
 | **Monitoramento de Recebíveis** | Ranking de fontes de receita para análise de desempenho comercial. |
 
 ## ⚙️ Tecnologias Utilizadas
-* **Power BI:** Ferramenta principal de modelagem de dados e criação de dashboards interativos.
-* **DAX:** Utilizado para criação de medidas e cálculos complexos de fluxo de caixa.
-* **Modelagem de Dados:** Estruturação para garantir a integridade entre os valores a receber e as contas a pagar.
+* **Power BI:** Ferramenta utilizada para a modelagem visual, criação de gráficos e filtros interativos.
+* **Excel:** Base de dados estruturada utilizada como fonte primária para a alimentação e processamento das informações no Power BI.
 
 ## 📈 Visualização do Sistema
 
