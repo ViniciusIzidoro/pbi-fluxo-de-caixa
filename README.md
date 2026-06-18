@@ -4,7 +4,7 @@
 
 ---
 
-## 📑 Sumário
+## Sumário
 - [Objetivo](#objetivo)
 - [Funcionalidades Principais](#funcionalidades-principais)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -12,10 +12,10 @@
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 Desenvolver uma solução de Business Intelligence para controle dinâmico do fluxo de caixa, permitindo a análise rápida da saúde financeira através de filtros inteligentes e indicadores visuais de performance.
 
-## 🛠 Funcionalidades Principais
+## Funcionalidades Principais
 
 | Recurso | Descrição |
 | :--- | :--- |
@@ -24,11 +24,11 @@ Desenvolver uma solução de Business Intelligence para controle dinâmico do fl
 | **Análise de Gastos** | Categorização detalhada de despesas para identificação de centros de custo. |
 | **Monitoramento de Recebíveis** | Ranking de fontes de receita para análise de desempenho comercial. |
 
-## ⚙️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * **Power BI:** Ferramenta utilizada para a modelagem visual, criação de gráficos e filtros interativos.
 * **Excel:** Base de dados estruturada utilizada como fonte primária para a alimentação e processamento das informações no Power BI.
 
-## 📈 Visualização do Sistema
+## Visualização do Sistema
 
 ![Painel Geral](Painel%20fluxo%20de%20caixa.PNG)
 ![Filtros de Recebimento](Painel%20interativo%20fluxo%20de%20caixa.PNG)
